@@ -63,9 +63,7 @@ This project is a vendor management system developed using React, Tailwind CSS, 
    The backend will run on port 5000.
 6. Access the application at `http://localhost:5173`.
 
-## Contributors
 
-- [Praveen](#) - Developer
 
 ## License
 
